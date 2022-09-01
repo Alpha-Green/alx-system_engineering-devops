@@ -10,3 +10,4 @@ more permissions for directories
 Write a script that changes the group owner to school for the file hello
 Write a script that changes the owner to vincent and the group owner to staff
 creating symbolic links
+Write a script that will play the StarWars IV episode in the terminal.
