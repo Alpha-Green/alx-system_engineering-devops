@@ -7,3 +7,4 @@ Write a script that sets the mode of the file hello to this:
 Write a script that sets the mode of the file hello the same as olleh’s mode.
 Permission for directories was set
 more permissions for directories
+Write a script that changes the group owner to school for the file hello
