@@ -5,3 +5,4 @@ Write a script that adds execution permission to the owner
 Write a script that sets the permission to the file hello
 Write a script that sets the mode of the file hello to this:
 Write a script that sets the mode of the file hello the same as olleh’s mode.
+Permission for directories was set
