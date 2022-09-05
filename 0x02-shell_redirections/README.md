@@ -9,3 +9,5 @@ Display the content of /etc/passwd and /etc/hosts
 four last lines
 added five last lines
 added the third line
+added 7 file
+added 8-cwd_state
