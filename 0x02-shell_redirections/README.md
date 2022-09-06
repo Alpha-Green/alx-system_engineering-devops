@@ -15,3 +15,4 @@ Write a script that duplicates the last line of the file iacta
 no more js code
 count number of directories
 script that finds 10 newest files
+print only words that appear once
