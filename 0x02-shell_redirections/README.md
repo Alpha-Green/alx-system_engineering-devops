@@ -16,3 +16,4 @@ no more js code
 count number of directories
 script that finds 10 newest files
 print only words that appear once
+Display lines containing the pattern “root” from the file
