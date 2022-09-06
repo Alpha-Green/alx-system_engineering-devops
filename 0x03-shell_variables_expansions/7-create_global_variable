@@ -1,0 +1,3 @@
+script creates global variable
+#!/bin/bash
+export School="BEST"
