@@ -21,3 +21,4 @@ count the number of words
 display lines containing root
 Display all the lines in the file /etc/passwd that do not contain the pattern “bin”.
 display the letters only
+letters from the beginning to end
