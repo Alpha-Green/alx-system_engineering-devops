@@ -24,3 +24,4 @@ display the letters only
 letters from the beginning to end
 script that removes all c
 reverse the characters
+Write a script that displays all users and their home directories,
