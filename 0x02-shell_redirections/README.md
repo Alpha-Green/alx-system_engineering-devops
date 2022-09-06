@@ -13,3 +13,4 @@ added 7 file
 added 8-cwd_state
 Write a script that duplicates the last line of the file iacta
 no more js code
+count number of directories
