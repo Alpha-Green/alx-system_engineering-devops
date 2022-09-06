@@ -18,3 +18,4 @@ script that finds 10 newest files
 print only words that appear once
 Display lines containing the pattern “root” from the file
 count the number of words
+display lines containing root
