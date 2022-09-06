@@ -4,3 +4,4 @@ adding action to the path
 create a script that counts directories
 creating a script that list environ variables
 create script that list local variables
+script creates variable
