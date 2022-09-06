@@ -6,3 +6,4 @@ creating a script that list environ variables
 create script that list local variables
 script creates variable
 SCript prints additin
+script that prints the reminder
