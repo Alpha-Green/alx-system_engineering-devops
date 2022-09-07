@@ -7,3 +7,4 @@ create script that list local variables
 script creates variable
 SCript prints additin
 script that prints the reminder
+words raised to power
