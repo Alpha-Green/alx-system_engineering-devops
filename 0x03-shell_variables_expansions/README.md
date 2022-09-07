@@ -11,3 +11,4 @@ words raised to power
 this script converts base 10 to 2
 print out letters in order
 number with two decimal places
+prints from base 10 to base 16
